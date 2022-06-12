@@ -1,0 +1,103 @@
+{
+  "main": {
+    "id": "e126f657bce02388",
+    "type": "split",
+    "children": [
+      {
+        "id": "d2d3fd204506f4d4",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "000/WMS一期优化.md",
+            "mode": "source",
+            "source": false
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "7ba04fe3aeb2ccdc",
+    "type": "split",
+    "children": [
+      {
+        "id": "0fd43bbe14d7196d",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "9740acf6111562d2",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "4a48914c4c66aa61",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "e56d75fbb99bb490",
+    "type": "split",
+    "children": [
+      {
+        "id": "0854925cce65b485",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "b8ecb4e482c3aa62",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "000/WMS一期优化.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "d2d3fd204506f4d4",
+  "lastOpenFiles": [
+    "000/WMS一期优化.md",
+    "000/TEMP.md",
+    "daily-note/2022-06-13.md",
+    "daily-note/2022-03-22.md",
+    "未命名.md",
+    "000/work/临空.md",
+    "000/work/work-temp.md",
+    "000/work/新货主.md",
+    "Pasted image 20220308075745.png",
+    "Pasted image 20220308074940.png"
+  ]
+}
