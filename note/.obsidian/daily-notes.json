@@ -1,3 +1,4 @@
 {
-  "folder": "daily-note"
+  "folder": "daily-note",
+  "autorun": true
 }
