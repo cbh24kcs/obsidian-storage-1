@@ -75,7 +75,7 @@
                 "sortOrder": "alphabetical",
                 "showSearch": false,
                 "searchQuery": "",
-                "backlinkCollapsed": false,
+                "backlinkCollapsed": true,
                 "unlinkedCollapsed": true
               }
             }
@@ -84,12 +84,12 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "active": "4c6ee13283c6d876",
   "lastOpenFiles": [
     "学习笔记/前端相关/JavaScript/JS函数的参数传递.md",
+    "学习笔记/C&C++/C++函数传参相关.md",
     "000/TEMP.md",
     "000/WMS一期优化.md",
     "技术路线/初级大数据研发技术栈-思维导图.md",
@@ -97,7 +97,6 @@
     "技术路线.md",
     "daily-note/2022-03-22.md",
     "000/work/临空.md",
-    "000/work/work-temp.md",
-    "000/work/新货主.md"
+    "000/work/work-temp.md"
   ]
 }
