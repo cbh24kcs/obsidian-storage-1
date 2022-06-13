@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "学习笔记/前端相关/JavaScript/JS函数的参数传递.md",
+            "file": "学习笔记/C&C++/C++函数传参相关.md",
             "mode": "source",
             "source": true
           }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "学习笔记/前端相关/JavaScript/JS函数的参数传递.md",
+                "file": "学习笔记/C&C++/C++函数传参相关.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -89,8 +89,8 @@
   },
   "active": "4c6ee13283c6d876",
   "lastOpenFiles": [
-    "学习笔记/前端相关/JavaScript/JS函数的参数传递.md",
     "学习笔记/C&C++/C++函数传参相关.md",
+    "学习笔记/前端相关/JavaScript/JS函数的参数传递.md",
     "000/TEMP.md",
     "000/WMS一期优化.md",
     "技术路线/初级大数据研发技术栈-思维导图.md",
